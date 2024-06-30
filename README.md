@@ -1,4 +1,4 @@
-# Financial Microeconomics Portfolio Optimization
+# Microeconomics Portfolio Optimization
 
 ## Overview
 
