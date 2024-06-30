@@ -17,7 +17,7 @@ This project focuses on the optimization of financial portfolios, including the 
 3. **Optimal Asset Holdings**: Compute the maximum holdings of assets that can be afforded under given budget constraints.
 
 4. **Utility Functions**: Analyze different types of utility functions and their impact on portfolio choice. The utility functions considered include:
-   - **Logarithmic Utility Function**: $ \U(x_1, x_2) = a \log(x_1) + b \log(x_2) \$
+   - **Logarithmic Utility Function**: $ \(U(x_1, x_2) = a \log(x_1) + b \log(x_2) \)$
    - **Square Root Utility Function**: $ \U(x_1, x_2) = (x_1)^{1/2} + 2(x_2)^{1/2} $
    - **Exponential Utility Function**: $ U(x_1, x_2) = -\exp(-x_1) - \exp(-x_2) $
    - **Cobb-Douglas Utility Function**: $ U(x_1, x_2) = 2 \log(x_1) + 3 \log(x_2) $
