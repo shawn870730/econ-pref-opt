@@ -18,11 +18,11 @@ This project focuses on the optimization of financial portfolios, including the 
 
 4. **Utility Functions**: Analyze different types of utility functions and their impact on portfolio choice. The utility functions considered include:
    - **Logarithmic Utility Function**: $\( U(x_1, x_2) = a \log(x_1) + b \log(x_2) \)$
-   - **Square Root Utility Function**: \( U(x_1, x_2) = (x_1)^{1/2} + 2(x_2)^{1/2} \)
-   - **Exponential Utility Function**: \( U(x_1, x_2) = -\exp(-x_1) - \exp(-x_2) \)
-   - **Cobb-Douglas Utility Function**: \( U(x_1, x_2) = 2 \log(x_1) + 3 \log(x_2) \)
-   - **CRRA (Constant Relative Risk Aversion) Utility Function**: \( U(x_n) = \frac{(x_n)^{1-\theta}}{1-\theta} \) where \( \theta > 0 \)
-   - **CARA (Constant Absolute Risk Aversion) Utility Function**: \( U(x_n) = -\exp(-\alpha x_n) \) where \( \alpha > 0 \)
+   - **Square Root Utility Function**: $\( U(x_1, x_2) = (x_1)^{1/2} + 2(x_2)^{1/2} \)$
+   - **Exponential Utility Function**: $\( U(x_1, x_2) = -\exp(-x_1) - \exp(-x_2) \)$
+   - **Cobb-Douglas Utility Function**: $\( U(x_1, x_2) = 2 \log(x_1) + 3 \log(x_2) \)$
+   - **CRRA (Constant Relative Risk Aversion) Utility Function**: $\( U(x_n) = \frac{(x_n)^{1-\theta}}{1-\theta} \) where \( \theta > 0 \)$
+   - **CARA (Constant Absolute Risk Aversion) Utility Function**: $\( U(x_n) = -\exp(-\alpha x_n) \) where \( \alpha > 0 \)$
 
 5. **Marginal Utility Analysis**: Evaluate the marginal utility of a dollar spent on different assets and its role in optimal portfolio selection.
 
