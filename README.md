@@ -32,7 +32,7 @@ This project focuses on the optimization of financial portfolios, including the 
 
 ## Budget Constraints
 
-The budget constraints are derived based on the initial portfolio and prices of the assets. For example, if Murphy is trading crude oil and natural gas with prices \( p_1 \) and \( p_2 \) respectively, and his initial endowment is \( (e_1, e_2) \), the budget constraint can be written as:
+The budget constraints are derived based on the initial portfolio and prices of the assets. For example, if Murphy is trading crude oil and natural gas with prices $\( p_1 \)$ and $\( p_2 \)$ respectively, and his initial endowment is $\( (e_1, e_2) \)$, the budget constraint can be written as:
 
 $\[ p_1 x_1 + p_2 x_2 = p_1 e_1 + p_2 e_2 \]$
 
